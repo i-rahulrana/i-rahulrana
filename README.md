@@ -40,9 +40,9 @@ A collection of automated API tests using Rest Assured, including examples of re
 
 I am always open to discussing new opportunities, collaborations, and ideas. Feel free to reach out to me through the following channels:
 
-- **LinkedIn:** [Rahul Rana](https://github.com/i-rahulrana)
+- **LinkedIn:** [Rahul Rana](https://www.linkedin.com/in/rahulrana22/)
 - **Email:** [rahul.rana22.1991@gmail.com](mailto:rahul.rana22.1991@gmail.com)
-- **Twitter:** [@yourtwitterhandle](https://twitter.com/yourtwitterhandle)
+- **Twitter:** [@rahulrana_22_91](https://x.com/rahulrana_22_91)
 
 Looking forward to connecting and collaborating with fellow tech enthusiasts!
 
